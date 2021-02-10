@@ -1,8 +1,6 @@
 # AirBNBOslo
-This repository aims to explore Airbnb data of Oslo city in Norway.
-
-Particularly, this we target to answer four business questions:
-
+This repository aims to explore Airbnb data of Oslo city in Norway.  
+Particularly, this we target to answer four business questions:  
 1. How are advertised accommodations distributed across neighborhoods/districts in Oslo?
 2. What are accommodation types mostly advertised in Airbnb in Oslo?
 3. How do accommodation prices look like?
@@ -13,17 +11,12 @@ The repository contains ONE ipython notebook.
 
 # Packages to install:
 
-numpy 
+numpy  
+pandas  
+matplotlib.pyplot  
+sklearn  
+scipy.stats  
+seaborn
 
-pandas 
-
-matplotlib.pyplot
-
-sklearn
-
-scipy.stats
-
-seaborn 
-
-# Dataset used:
+# Dataset used:  
 http://insideairbnb.com/get-the-data.html

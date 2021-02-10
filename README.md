@@ -20,3 +20,6 @@ seaborn
 
 # Dataset used:  
 http://insideairbnb.com/get-the-data.html
+
+# External Link  
+Some more details are here: https://medium.com/nerd-for-tech/oslo-airbnb-data-2a132a7011af
